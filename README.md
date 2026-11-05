@@ -1,68 +1,129 @@
-# Clifford Ray Madialo
+<!-- Premium GitHub profile README for cliffray7 -->
 
-**Software Developer | Frontend & Full-Stack Development | System Design | DevOps**
+<div align="center">
 
-Based in Kenya · Working at **Sababisha Solutions Limited**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=190&section=header&text=Clifford%20Ray%20Madialo&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Frontend%20%7C%20Full-Stack%20%7C%20DevOps&descAlignY=60&descSize=14" width="100%" alt="Profile banner" />
 
-I’m a software developer interested in building practical, maintainable software for real-world problems. My work and projects span frontend development, backend APIs, relational databases, application architecture, and deployment workflows.
+  <p>
+    <a href="https://github.com/cliffray7">
+      <img src="https://img.shields.io/badge/GitHub-cliffray7-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Kenya-166534?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Kenya" />
+    <img src="https://img.shields.io/badge/Role-Software%20Developer-1D4ED8?style=for-the-badge" alt="Software Developer" />
+  </p>
 
-I primarily work with React, JavaScript, and TypeScript on the frontend, alongside C# and ASP.NET Core for backend development. I also work with SQL databases and development/deployment tools, and continue to strengthen my understanding of system design and DevOps practices.
+  **Building useful software with a focus on thoughtful engineering, reliable systems, and practical user experiences.**
 
-## Core Skills
+</div>
 
-**Frontend**
-- React, JavaScript, TypeScript
-- HTML, CSS, Tailwind CSS
-- Responsive interfaces and API integration
+---
 
-**Backend & Data**
-- C#, .NET / ASP.NET Core
-- REST API development and integration
-- SQL Server, PostgreSQL, MySQL
-- Firebase
+## About
 
-**System Design & Software Engineering**
-- Modular application architecture
-- Monolithic architecture and microservices concepts
-- API design and integration
-- Relational database design and data modelling
-- Authentication, authorization, and multi-tenant application concepts
-- Debugging, testing, and maintainable code practices
+I'm a software developer at **Sababisha Solutions Limited**, working across frontend and backend development and growing my experience in system design and DevOps.
 
-**DevOps, Cloud & Tools**
-- Git and GitHub
-- Docker and Docker Compose
-- GitHub Actions and CI/CD workflows
-- Linux and Nginx
-- Deployment and hosting with Azure, Vercel, Render, and Railway
-- PostgreSQL deployment and administration
+I enjoy understanding a problem from the product and user perspective, translating it into maintainable software, and working through the process of building, integrating, testing, and deploying an application.
 
-I value clear communication, practical problem-solving, readable code, and understanding how a feature fits into the wider application.
+- Developing web applications with **React, JavaScript, and TypeScript**.
+- Building and integrating backend services with **C# and ASP.NET Core**.
+- Working with relational databases, API design, and application architecture.
+- Applying DevOps tools and workflows for containerisation, automation, and deployment.
+- Continuously improving code quality, system reliability, and development practices.
+
+---
+
+## Technical Skills
+
+*Technologies and tools I have worked with across projects and development workflows.*
+
+<div align="center">
+
+  **Frontend**
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" alt="Frontend technologies" />
+
+  <br /><br />
+
+  **Backend & Databases**
+  <br />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,postgres,mysql,firebase&theme=dark" alt="Backend and database technologies" />
+
+  <br /><br />
+
+  **DevOps, Cloud & Tools**
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,nginx,azure,vercel&theme=dark" alt="DevOps and development tools" />
+
+  <br /><br />
+
+  **Additional platforms**
+  <br />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,figma&theme=dark" alt="Additional tools" />
+
+</div>
+
+### Engineering areas
+
+| Area | Experience and working knowledge |
+|---|---|
+| Application development | Responsive interfaces, frontend/backend integration, REST APIs |
+| Backend engineering | ASP.NET Core, API implementation, authentication and authorisation |
+| Data | Relational database design, SQL queries, PostgreSQL and SQL Server |
+| System design | Modular application structure, monolith architecture, microservices concepts, API design, multi-tenancy concepts |
+| DevOps | Docker, Docker Compose, GitHub Actions, CI/CD workflows, environment configuration |
+| Deployment & infrastructure | Vercel, Render, Railway, Azure, Linux, Nginx, PostgreSQL deployment |
+
+---
 
 ## Selected Projects
 
 ### [TaskFlow / SABABISHA-PMS](https://github.com/cliffray7/SABABISHA-PMS)
-A project management platform focused on workspaces, projects, boards, tasks, collaboration, and administration. The project has provided experience with frontend and backend integration, API design, database-backed workflows, and application security.
+A project management platform supporting workspaces, projects, boards, tasks, collaboration, and administration. Work on this project has involved frontend/backend integration, API workflows, database-backed features, and application security.
+
+**Technologies:** React · TypeScript · .NET · SQL Server
 
 ### [JSL Helpdesk](https://github.com/cliffray7/jsl-helpdesk)
 A helpdesk application project focused on organising support requests and service workflows.
 
+[View repository](https://github.com/cliffray7/jsl-helpdesk)
+
 ### [Portfolio](https://github.com/cliffray7/clifford-ray-portfolio)
-A personal portfolio project showcasing my development work and frontend skills.
+A personal portfolio project for presenting development work and frontend capabilities.
 
-## GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cliffray7&show_icons=true&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliffray7&layout=compact&hide_border=true)
-
-## Connect
-
-- **GitHub:** [@cliffray7](https://github.com/cliffray7)
-- **Portfolio:** [clifford-ray-portfolio](https://github.com/cliffray7/clifford-ray-portfolio)
-
-I’m open to software development opportunities, technical collaboration, and opportunities to keep growing as an engineer.
+[View repository](https://github.com/cliffray7/clifford-ray-portfolio)
 
 ---
 
-*Building useful software, learning continuously, and improving through practical engineering.*
+## GitHub Overview
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cliffray7&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliffray7&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliffray7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## Connect
+
+I'm interested in software development opportunities, collaborative projects, and opportunities to keep learning through practical engineering work.
+
+<div align="center">
+
+  <a href="https://github.com/cliffray7">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/cliffray7/clifford-ray-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View%20projects-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio repository" />
+  </a>
+
+</div>
+
+<div align="center">
+  <sub>Focused on continuous learning, sound engineering practices, and building software that solves real problems.</sub>
+</div>
