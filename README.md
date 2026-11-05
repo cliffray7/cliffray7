@@ -1,74 +1,68 @@
-# Hi, I'm Clifford Ray 👋
+# Clifford Ray Madialo
 
-### Frontend Developer · Full-Stack Builder · IT Student
+**Software Developer | Frontend & Full-Stack Development | System Design | DevOps**
 
-I enjoy turning ideas into useful, well-designed digital products. I work across frontend development and backend integration, with a growing interest in scalable systems, developer experience, and thoughtful UI/UX.
+Based in Kenya · Working at **Sababisha Solutions Limited**
 
-- 🎓 Studying Information Technology at Kabarak University
-- 💻 Building web applications with React, TypeScript, and modern frontend tools
-- ⚙️ Exploring backend development with C#, .NET, and databases
-- 🚀 Interested in product engineering, full-stack development, and practical AI integration
-- 🌍 Based in Kenya
+I’m a software developer interested in building practical, maintainable software for real-world problems. My work and projects span frontend development, backend APIs, relational databases, application architecture, and deployment workflows.
 
----
+I primarily work with React, JavaScript, and TypeScript on the frontend, alongside C# and ASP.NET Core for backend development. I also work with SQL databases and development/deployment tools, and continue to strengthen my understanding of system design and DevOps practices.
 
-## Tech Stack
+## Core Skills
 
 **Frontend**
+- React, JavaScript, TypeScript
+- HTML, CSS, Tailwind CSS
+- Responsive interfaces and API integration
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+**Backend & Data**
+- C#, .NET / ASP.NET Core
+- REST API development and integration
+- SQL Server, PostgreSQL, MySQL
+- Firebase
 
-**Backend & Databases**
+**System Design & Software Engineering**
+- Modular application architecture
+- Monolithic architecture and microservices concepts
+- API design and integration
+- Relational database design and data modelling
+- Authentication, authorization, and multi-tenant application concepts
+- Debugging, testing, and maintainable code practices
 
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+**DevOps, Cloud & Tools**
+- Git and GitHub
+- Docker and Docker Compose
+- GitHub Actions and CI/CD workflows
+- Linux and Nginx
+- Deployment and hosting with Azure, Vercel, Render, and Railway
+- PostgreSQL deployment and administration
 
-**Tools & Platforms**
+I value clear communication, practical problem-solving, readable code, and understanding how a feature fits into the wider application.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+## Selected Projects
 
----
-
-## Featured Projects
-
-### [TaskFlow — Project Management System](https://github.com/cliffray7/SABABISHA-PMS)
-A team-focused project management platform built around workspaces, projects, boards, tasks, collaboration, and administration.
+### [TaskFlow / SABABISHA-PMS](https://github.com/cliffray7/SABABISHA-PMS)
+A project management platform focused on workspaces, projects, boards, tasks, collaboration, and administration. The project has provided experience with frontend and backend integration, API design, database-backed workflows, and application security.
 
 ### [JSL Helpdesk](https://github.com/cliffray7/jsl-helpdesk)
-A helpdesk project focused on supporting structured service and support workflows.
+A helpdesk application project focused on organising support requests and service workflows.
 
 ### [Portfolio](https://github.com/cliffray7/clifford-ray-portfolio)
-My personal portfolio project and a place to showcase my development work.
+A personal portfolio project showcasing my development work and frontend skills.
+
+## GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cliffray7&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliffray7&layout=compact&hide_border=true)
+
+## Connect
+
+- **GitHub:** [@cliffray7](https://github.com/cliffray7)
+- **Portfolio:** [clifford-ray-portfolio](https://github.com/cliffray7/clifford-ray-portfolio)
+
+I’m open to software development opportunities, technical collaboration, and opportunities to keep growing as an engineer.
 
 ---
 
-## GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cliffray7&show_icons=true&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliffray7&layout=compact&hide_border=true)
-
----
-
-## Let's Connect
-
-I'm always interested in learning, collaborating, and building useful things.
-
-- GitHub: [@cliffray7](https://github.com/cliffray7)
-- Portfolio: [View my portfolio](https://github.com/cliffray7/clifford-ray-portfolio)
-
----
-
-<sub>Building consistently. Learning continuously. Improving with every project.</sub>
+*Building useful software, learning continuously, and improving through practical engineering.*
