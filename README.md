@@ -98,10 +98,14 @@ A personal portfolio project for presenting development work and frontend capabi
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cliffray7&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliffray7&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <a href="https://github.com/cliffray7?tab=repositories">
+    <img src="https://img.shields.io/badge/View-Public%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories" />
+  </a>
+  <a href="https://github.com/cliffray7?tab=activity">
+    <img src="https://img.shields.io/badge/View-GitHub%20Activity-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" />
+  </a>
 
-  <br />
+  <br /><br />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliffray7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
